@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7C715550-6D09-4CE5-A6FF-A28B72814865}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimerArbol/PrimerAr.cs">
+    <Files>
+      <File FileName="PrimerArbol/PrimerAr.cs" Line="21" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrimerArbol PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
