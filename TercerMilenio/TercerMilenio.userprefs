@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{882AAA0E-D164-47C1-9029-32F6F5A61914}|Default">
+  <MonoDevelop.Ide.ItemProperties.TercerMilenio PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TercerMilenio/TercerMilenio.cs">
+    <Files>
+      <File FileName="TercerMilenio/TercerMilenio.cs" Line="23" Column="18" />
+      <File FileName="../../Desktop/Tercer Arbol/Tercer Arbol/Program.cs" Line="258" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
