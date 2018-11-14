@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/bin/Debug/netcoreapp2.0/RecorridoArbol.deps.json
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/bin/Debug/netcoreapp2.0/RecorridoArbol.runtimeconfig.json
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/bin/Debug/netcoreapp2.0/RecorridoArbol.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/bin/Debug/netcoreapp2.0/RecorridoArbol.dll
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/bin/Debug/netcoreapp2.0/RecorridoArbol.pdb
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/obj/Debug/netcoreapp2.0/RecorridoArbol.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/obj/Debug/netcoreapp2.0/RecorridoArbol.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/obj/Debug/netcoreapp2.0/RecorridoArbol.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/obj/Debug/netcoreapp2.0/RecorridoArbol.AssemblyInfo.cs
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/obj/Debug/netcoreapp2.0/RecorridoArbol.dll
+/Users/osmarenrique/Projects/RecorridoArbol/RecorridoArbol/obj/Debug/netcoreapp2.0/RecorridoArbol.pdb
